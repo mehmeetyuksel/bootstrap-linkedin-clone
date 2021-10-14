@@ -2,6 +2,5 @@
 
 ## Bootstrap Linkedin Clone
 
-PatikaDev tarafından verilen ödev
 
 ![Output](./figures/output.gif)
