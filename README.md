@@ -1,6 +1,4 @@
-# Ödev 3
-
-## Bootstrap Linkedin Clone
+# Bootstrap Linkedin Clone
 
 
 ![Output](./figures/output.gif)
